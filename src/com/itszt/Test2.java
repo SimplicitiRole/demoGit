@@ -5,6 +5,6 @@ package com.itszt;
  */
 public class Test2 {
     public static void go(){
-        System.out.println("heheBBBBBBBBBBBBB");
+        System.out.println("heheAAAAAAAA");
     }
 }
