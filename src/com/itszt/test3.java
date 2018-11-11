@@ -7,7 +7,7 @@ public class test3 {
 
     public static String go(String hello){
         
-        String int = new String();
+        System.out.println("helloBBBBB = " + hello);
 
         return hello;
     }
