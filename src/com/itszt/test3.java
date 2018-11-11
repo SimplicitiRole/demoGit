@@ -6,8 +6,8 @@ package com.itszt;
 public class test3 {
 
     public static String go(String hello){
-        
-        String int = new String();
+
+        System.out.println("hello = " + hello);
 
         return hello;
     }
