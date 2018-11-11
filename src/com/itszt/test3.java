@@ -6,6 +6,8 @@ package com.itszt;
 public class test3 {
 
     public static String go(String hello){
+        
+        String int = new String();
 
         return hello;
     }
